@@ -29,12 +29,3 @@
 </div>
 
 ###
-
-<div align="left">
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/samuellucg/samuellucg/output/snake.svg" alt="Snake animation" />
-
-###
