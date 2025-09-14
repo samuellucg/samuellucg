@@ -1,6 +1,6 @@
 # Olá! Me chamo Samuel Lucas 👋
 
-Sou estudante do **3º período** da faculdade de **Desenvolvimento em Back-End** e atualmente atuo como **estagiário de desenvolvimento FullStack** na **Janus Automation**. Tenho me especializado em tecnologias como **C#, .NET, ASP.NET** e **WPF**, buscando constantemente evoluir como desenvolvedor.
+Sou estudante do **4º período** da faculdade de **Desenvolvimento em Back-End** e atualmente atuo como **estagiário de desenvolvimento FullStack** na **Janus Automation**. Tenho me especializado em tecnologias como **C#, .NET, ASP.NET** e **WPF**, buscando constantemente evoluir como desenvolvedor.
 
 ---
 
