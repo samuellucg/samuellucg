@@ -1,13 +1,13 @@
 # Olá! Me chamo Samuel Lucas 👋
 
-Sou estudante do **4º período** da faculdade de **Desenvolvimento em Back-End** e atualmente atuo como **estagiário de desenvolvimento FullStack** na **Janus Automation**. Tenho me especializado em tecnologias como **C#, .NET, ASP.NET** e **WPF**, buscando constantemente evoluir como desenvolvedor.
+Sou estudante do **4º período** da faculdade de **Desenvolvimento em Back-End** e atualmente atuo como **Analista de Sistemas I** na **Janus Automation**. Tenho me especializado em tecnologias como **C#, JavaScript, Node.Js** e **WPF**, buscando constantemente evoluir como desenvolvedor.
 
 ---
 
 ### 🧩 Sobre mim
 
 * 🌍  **Localização:** Belo Horizonte - MG, Brasil  
-* 🧠  **Estudos:** Me especializando em C#, .NET, ASP.NET, WPF  
+* 🧠  **Estudos:** Me especializando em C#, JS, Node.Js e todo ambiente .NET  
 * 📫  **Contato:** [samuel.lucasmacedos@gmail.com](mailto:samuel.lucasmacedos@gmail.com)
 
 ---
