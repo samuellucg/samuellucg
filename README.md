@@ -1,6 +1,6 @@
 # Olá! Me chamo Samuel Lucas 👋
 
-Sou estudante do **4º período** da faculdade de **Desenvolvimento em Back-End** e atualmente atuo como **Analista de Sistemas I** na **Janus Automation**. Tenho me especializado em tecnologias como **C#, JavaScript, Node.Js** e **WPF**, buscando constantemente evoluir como desenvolvedor.
+Sou estudante do **4º período** da faculdade de **Desenvolvimento em Back-End** e do **5º período** da faculdade de **Engenharia de Software** e atualmente atuo como **Analista de Sistemas I** na **Janus Automation**. Tenho me especializado em tecnologias como **C#, JavaScript, Node.Js** e **WPF**, buscando constantemente evoluir como desenvolvedor.
 
 ---
 
